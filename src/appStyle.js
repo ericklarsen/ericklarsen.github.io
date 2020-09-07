@@ -8,7 +8,7 @@ export const pickerIcon = "#e2e4e4"
 export const outlineBorder = "#f1f1f2"
 export const shadow = "0px 8px 10px 0px rgba(10, 31, 68, 0.1)"
 
-export const iphoneMedia = "@media (max-width: 375px)"
+export const iphoneMedia = "@media (max-width: 480px)"
 export const ipadProMedia = "@media (max-width: 1024px)"
 
 export const AppWrap = styled.div`

@@ -131,7 +131,7 @@ class header extends React.Component {
                         </button>
                         <div className="navSideRight">
                             <div className="upTxt">
-                                <p>Alamat Pengantaran</p>
+                                <p>Alamat Pengantarans</p>
                             </div>
                             <button onClick={this.btnLocation} className="botTxt">
                                 <p>Tokopedia Tower</p>
